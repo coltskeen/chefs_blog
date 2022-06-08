@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace chefs_blog
+namespace Blog
 {
     public class Program
     {
@@ -24,4 +24,3 @@ namespace chefs_blog
                 });
     }
 }
-
